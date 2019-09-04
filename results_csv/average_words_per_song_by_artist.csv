@@ -1,0 +1,345 @@
+,index,artist,Unnamed: 0,artist_id,year,clean_unique_words_count,num,avg
+0,0,21 Savage,1,1,2017,71,1,71.0
+1,1,5 Seconds of Summer,9,6,6046,104,3,34.666666666666664
+2,2,"6ix9ine, Nicki Minaj & Murda Beatz",5,3,2018,47,1,47.0
+3,3,A Great Big World & Christina Aguilera,6,4,2014,12,1,12.0
+4,4,Adam Lambert,7,5,2015,29,1,29.0
+5,5,Adele,38,24,8063,104,4,26.0
+6,6,Alan Walker,12,7,2016,24,1,24.0
+7,7,Alessia Cara,42,24,6048,125,3,41.666666666666664
+8,8,Aloe Blacc,16,9,2014,37,1,37.0
+9,9,American Authors,17,10,2014,20,1,20.0
+10,10,Andreas Bourani,18,11,2014,8,1,8.0
+11,11,Andy Grammer,19,12,2015,17,1,17.0
+12,12,Ariana Grande,188,104,16134,189,8,23.625
+13,13,Ariana Grande & Iggy Azalea,28,14,2014,30,1,30.0
+14,14,Ariana Grande & Nicki Minaj,59,30,4033,90,2,45.0
+15,15,Ariana Grande & Zedd,31,16,2014,25,1,25.0
+16,16,Avicii,134,68,8057,71,4,17.75
+17,17,Axwell L Ingrosso,36,18,2017,22,1,22.0
+18,18,Ayo & Teo,37,19,2017,34,1,34.0
+19,19,Bastille,38,20,2014,18,1,18.0
+20,20,Bazzi,39,21,2018,26,1,26.0
+21,21,Bebe Rexha & Florida Georgia Line,40,22,2018,22,1,22.0
+22,22,Becky G,41,23,2014,25,1,25.0
+23,23,"Benny Blanco, Halsey & Khalid",42,24,2018,33,1,33.0
+24,24,Beyonce,43,25,2015,32,1,32.0
+25,25,Beyonce & Jay-Z,44,26,2014,68,1,68.0
+26,26,Big Sean,45,27,2017,108,1,108.0
+27,27,Big Sean & E-40,46,28,2015,112,1,112.0
+28,28,BlocBoy JB & Drake,47,29,2018,55,1,55.0
+29,29,Bobby Shmurda,48,30,2014,13,1,13.0
+30,30,Brantley Gilbert,49,31,2014,39,1,39.0
+31,31,Brett Young,50,32,2017,13,1,13.0
+32,32,Bruno Mars,156,99,6050,135,3,45.0
+33,33,Bruno Mars & Cardi B,54,34,2018,23,1,23.0
+34,34,Bryson Tiller,111,70,4032,94,2,47.0
+35,35,Burak Yeter & Danelle Sandoval,57,36,2017,13,1,13.0
+36,36,Calvin Harris,117,74,4030,10,2,5.0
+37,37,Calvin Harris & Disciples,60,38,2015,13,1,13.0
+38,38,Calvin Harris & Dua Lipa,61,39,2018,15,1,15.0
+39,39,Calvin Harris & Ellie Goulding,62,40,2015,8,1,8.0
+40,40,Calvin Harris & John Newman,63,41,2014,13,1,13.0
+41,41,Calvin Harris & Sam Smith,64,42,2018,22,1,22.0
+42,42,"Calvin Harris, Frank Ocean & Migos",65,43,2017,55,1,55.0
+43,43,"Calvin Harris, Pharrell Williams, Katy Perry & Big Sean",66,44,2017,62,1,62.0
+44,44,Camila Cabello,67,45,2018,23,1,23.0
+45,45,Camila Cabello & Young Thug,137,92,4035,56,2,28.0
+46,46,Cardi B,141,94,4035,115,2,57.5
+47,47,Cardi B & 21 Savage,72,48,2018,75,1,75.0
+48,48,"Cardi B, Bad Bunny & J Balvin",73,49,2018,75,1,75.0
+49,49,Carly Rae Jepsen,74,50,2015,24,1,24.0
+50,50,Charli XCX,75,51,2014,21,1,21.0
+51,51,Charlie Puth,231,156,6051,51,3,17.0
+52,52,Charlie Puth & Meghan Trainor,79,53,2015,18,1,18.0
+53,53,Charlie Puth & Selena Gomez,80,54,2016,20,1,20.0
+54,54,Cheat Codes & Demi Lovato,81,55,2017,14,1,14.0
+55,55,Childish Gambino,165,112,4035,58,2,29.0
+56,56,Chris Brown & Lil' Wayne,84,57,2014,67,1,67.0
+57,57,Chris Brown & Tyga,85,58,2015,70,1,70.0
+58,58,Clean Bandit & Demi Lovato,86,59,2018,21,1,21.0
+59,59,Clean Bandit & Jess Glynne,87,60,2014,22,1,22.0
+60,60,Clean Bandit & Zara Larsson,88,61,2017,21,1,21.0
+61,61,"Clean Bandit, Sean Paul & Anne-Marie",89,62,2017,60,1,60.0
+62,62,Coldplay,366,252,8060,51,4,12.75
+63,63,DJ Khaled & Drake,94,64,2016,42,1,42.0
+64,64,"DJ Khaled, Justin Bieber, Quavo, Chance The Rapper & Lil' Wayne",191,130,4035,107,2,53.5
+65,65,"DJ Khaled, Rihanna & Bryson Tiller",97,66,2017,47,1,47.0
+66,66,DJ Snake & AlunaGeorge,98,67,2015,20,1,20.0
+67,67,DJ Snake & Bipolar Sunshine,99,68,2016,18,1,18.0
+68,68,DJ Snake & Justin Bieber,201,138,4033,40,2,20.0
+69,69,DJ Snake & Lil' Jon,102,70,2014,1,1,1.0
+70,70,"DJ Snake, Selena Gomez, Ozuna & Cardi B",103,71,2018,50,1,50.0
+71,71,DNCE,104,72,2016,37,1,37.0
+72,72,DRAM & Lil Yachty,105,73,2016,93,1,93.0
+73,73,Daddy Yankee,106,74,2018,21,1,21.0
+74,74,Dan & Shay,107,75,2018,30,1,30.0
+75,75,David Guetta & Justin Bieber,108,76,2017,25,1,25.0
+76,76,David Guetta & Sam Martin,330,231,6043,61,3,20.333333333333332
+77,77,David Guetta & Sia,112,78,2018,15,1,15.0
+78,78,David Guetta & Zara Larsson,113,79,2016,10,1,10.0
+79,79,"David Guetta, Nicki Minaj & Afrojack",114,80,2015,46,1,46.0
+80,80,Dean Lewis,115,81,2018,38,1,38.0
+81,81,Demi Lovato,233,164,4032,46,2,23.0
+82,82,Dennis Lloyd,118,83,2018,7,1,7.0
+83,83,Desiigner,119,84,2016,51,1,51.0
+84,84,Disclosure & Sam Smith,120,85,2014,18,1,18.0
+85,85,Disturbed,121,86,2016,61,1,61.0
+86,86,Drake,1134,783,18153,349,9,38.77777777777778
+87,87,Drake & Future,131,88,2016,60,1,60.0
+88,88,Drake & Majid Jordan,132,89,2014,6,1,6.0
+89,89,Drake & The Throne,133,90,2016,52,1,52.0
+90,90,"Drake, WizKid & Kyla",134,91,2016,28,1,28.0
+91,91,Dua Lipa,408,276,6053,75,3,25.0
+92,92,Dynoro & Gigi D'Agostino,138,93,2018,3,1,3.0
+93,93,Echosmith,139,94,2014,22,1,22.0
+94,94,Ed Sheeran,1746,1140,24190,505,12,42.083333333333336
+95,95,El Profesor,152,96,2018,2,1,2.0
+96,96,Ella Henderson,153,97,2014,34,1,34.0
+97,97,Ella Mai,309,196,4036,38,2,19.0
+98,98,Elle King,313,198,4031,54,2,27.0
+99,99,Ellie Goulding,477,300,6044,63,3,21.0
+100,100,Eminem & Ed Sheeran,161,101,2018,115,1,115.0
+101,101,Enrique Iglesias,162,102,2014,10,1,10.0
+102,102,Enrique Iglesias & Wisin,163,103,2016,8,1,8.0
+103,103,Fall Out Boy,329,208,4030,57,2,28.5
+104,104,Faul & Wad Ad vs. Pnau,166,105,2014,4,1,4.0
+105,105,Feder & Lyse,167,106,2015,19,1,19.0
+106,106,Felix Jaehn & Jasmine Thompson,168,107,2015,20,1,20.0
+107,107,Fetty Wap,169,108,2015,51,1,51.0
+108,108,Fetty Wap & Monty,170,109,2015,57,1,57.0
+109,109,Fetty Wap & Remy Boyz,343,220,4031,114,2,57.0
+110,110,Fifth Harmony & Fetty Wap,173,111,2016,32,1,32.0
+111,111,Fifth Harmony & Kid Ink,174,112,2015,20,1,20.0
+112,112,Fifth Harmony & Ty Dolla Sign,175,113,2016,27,1,27.0
+113,113,Flo-Rida,176,114,2016,36,1,36.0
+114,114,Flo-Rida & Sage The Gemini,177,115,2015,44,1,44.0
+115,115,"Flo-Rida, Robin Thicke & Verdine White",178,116,2015,47,1,47.0
+116,116,Florida Georgia Line,359,234,4030,72,2,36.0
+117,117,Flume & Kai,181,118,2016,32,1,32.0
+118,118,French Montana & Swae Lee,182,119,2017,38,1,38.0
+119,119,Future,183,120,2017,66,1,66.0
+120,120,Future & The Weeknd,184,121,2016,74,1,74.0
+121,121,G-Eazy & ASAP Rocky & Cardi B,185,122,2018,65,1,65.0
+122,122,G-Eazy & Bebe Rexha,186,123,2016,62,1,62.0
+123,123,G-Eazy & Halsey,187,124,2018,65,1,65.0
+124,124,Galantis,188,125,2016,8,1,8.0
+125,125,George Ezra,570,378,6047,48,3,16.0
+126,126,Gnash & Olivia O'Brien,192,127,2016,48,1,48.0
+127,127,Hailee Steinfeld & Grey,193,128,2016,19,1,19.0
+128,128,Halsey,585,387,6053,62,3,20.666666666666668
+129,129,Harry Styles,197,130,2017,17,1,17.0
+130,130,Helene Fischer,198,131,2014,8,1,8.0
+131,131,Hozier,399,264,4029,118,2,59.0
+132,132,Idina Menzel,201,133,2014,38,1,38.0
+133,133,Iggy Azalea & Charli XCX,202,134,2014,75,1,75.0
+134,134,Iggy Azalea & Rita Ora,203,135,2014,56,1,56.0
+135,135,Imagine Dragons,1449,952,14116,261,7,37.285714285714285
+136,136,Imany,211,137,2016,23,1,23.0
+137,137,J Balvin & Willy William,212,138,2017,13,1,13.0
+138,138,J Balvin & Willy William & Beyonce,213,139,2017,13,1,13.0
+139,139,James Arthur,429,280,4033,90,2,45.0
+140,140,James Bay,433,282,4031,54,2,27.0
+141,141,James Newton Howard & Jennifer Lawrence,218,142,2015,13,1,13.0
+142,142,Jason Derulo,439,286,4029,38,2,19.0
+143,143,Jason Derulo & 2 Chainz,221,144,2014,46,1,46.0
+144,144,Jason Derulo & Snoop Dogg,222,145,2014,57,1,57.0
+145,145,"Jason Derulo, Nicki Minaj & Ty Dolla Sign",223,146,2017,52,1,52.0
+146,146,Jax Jones & RAYE,224,147,2017,23,1,23.0
+147,147,Jennifer Lopez,225,148,2016,19,1,19.0
+148,148,Jeremih,226,149,2016,25,1,25.0
+149,149,Jeremih & YG,227,150,2014,55,1,55.0
+150,150,Jess Glynne,228,151,2015,18,1,18.0
+151,151,"Jessie J, Nicki Minaj & Ariana Grande",459,304,4029,84,2,42.0
+152,152,John Legend,463,306,4029,60,2,30.0
+153,153,John Newman,233,154,2014,17,1,17.0
+154,154,Jon Bellion,234,155,2017,22,1,22.0
+155,155,Jonas Blue,235,156,2016,44,1,44.0
+156,156,Jonas Blue & William Singe,236,157,2017,33,1,33.0
+157,157,"Jonas Blue, Jack & Jack",237,158,2018,20,1,20.0
+158,158,Juice WRLD,238,159,2018,18,1,18.0
+159,159,Julia Michaels,239,160,2017,24,1,24.0
+160,160,Justin Bieber,1210,805,10078,125,5,25.0
+161,161,Justin Bieber & BloodPop,245,162,2017,13,1,13.0
+162,162,Justin Timberlake,741,489,6047,82,3,27.333333333333332
+163,163,Justin Timberlake & Chris Stapleton,249,164,2018,18,1,18.0
+164,164,Kane Brown,250,165,2018,19,1,19.0
+165,165,Kanye West & Lil Pump,251,166,2018,40,1,40.0
+166,166,Katy Perry,1014,668,8056,167,4,41.75
+167,167,Katy Perry & Skip Marley,256,168,2017,46,1,46.0
+168,168,Ke$ha,257,169,2017,27,1,27.0
+169,169,Keala Settle & The Greatest Showman Ensemble,258,170,2018,35,1,35.0
+170,170,Kelly Clarkson,259,171,2015,26,1,26.0
+171,171,Kendrick Lamar,521,344,4034,212,2,106.0
+172,172,Kendrick Lamar & Rihanna,262,173,2017,63,1,63.0
+173,173,Kendrick Lamar & SZA,263,174,2018,39,1,39.0
+174,174,Kent Jones,264,175,2016,29,1,29.0
+175,175,Kevin Gates,265,176,2016,76,1,76.0
+176,176,Khalid,533,354,4034,30,2,15.0
+177,177,Khalid & Normani,268,178,2018,25,1,25.0
+178,178,Kid Ink & Chris Brown,269,179,2014,45,1,45.0
+179,179,Kiesza,270,180,2014,24,1,24.0
+180,180,Kiiara,271,181,2016,17,1,17.0
+181,181,Klingande,272,182,2014,5,1,5.0
+182,182,Kodak Black,273,183,2017,41,1,41.0
+183,183,"Kodak Black, Travi$ Scott & Offset",274,184,2018,92,1,92.0
+184,184,Kungs & Cookin' On 3 Burners,275,185,2016,10,1,10.0
+185,185,Kygo & Conrad,276,186,2015,14,1,14.0
+186,186,Kygo & Parson James,277,187,2015,32,1,32.0
+187,187,Kygo & Selena Gomez,278,188,2017,24,1,24.0
+188,188,Kyle & Lil Yachty,279,189,2017,82,1,82.0
+189,189,Lady Gaga & Bradley Cooper,280,190,2018,12,1,12.0
+190,190,Lauy,281,191,2018,14,1,14.0
+191,191,Liam Payne & Quavo,282,192,2017,45,1,45.0
+192,192,Liam Payne & Rita Ora,283,193,2018,69,1,69.0
+193,193,Lil Baby & Drake,284,194,2018,67,1,67.0
+194,194,Lil Baby & Gunna,285,195,2018,45,1,45.0
+195,195,Lil Dicky & Chris Brown,286,196,2018,87,1,87.0
+196,196,Lil Pump,287,197,2017,41,1,41.0
+197,197,Lil Uzi Vert,288,198,2017,44,1,44.0
+198,198,"Lil' Wayne, Wiz Khalifa & Imagine Dragons",289,199,2016,100,1,100.0
+199,199,Lilly Wood & The Prick & Robin Schulz,290,200,2014,15,1,15.0
+200,200,Little Big Town,291,201,2015,28,1,28.0
+201,201,"Logic, Alessia Cara & Khalid",292,202,2017,42,1,42.0
+202,202,Lorde,587,406,4028,79,2,39.5
+203,203,Lost Frequencies,295,204,2015,7,1,7.0
+204,204,Lost Frequencies & Janieck Devy,296,205,2015,20,1,20.0
+205,205,Loud Luxury & Brando,297,206,2018,20,1,20.0
+206,206,Luis Fonsi & Daddy Yankee,597,414,4035,38,2,19.0
+207,207,Luis Fonsi & Demi Lovato,300,208,2018,11,1,11.0
+208,208,Lukas Graham,301,209,2016,111,1,111.0
+209,209,MKTO,302,210,2014,56,1,56.0
+210,210,Machine Gun Kelly & Camila Cabello,303,211,2017,43,1,43.0
+211,211,Macklemore & Ryan Lewis,304,212,2015,119,1,119.0
+212,212,Macklemore & Skylar Grey,305,213,2017,69,1,69.0
+213,213,Magic!,306,214,2014,26,1,26.0
+214,214,Major Lazer & DJ Snake,615,430,4031,26,2,13.0
+215,215,"Major Lazer, Justin Bieber & MO",309,216,2016,18,1,18.0
+216,216,"Major Lazer, Nyla & Fuse ODG",310,217,2016,22,1,22.0
+217,217,Mark Forster & Sido,311,218,2014,18,1,18.0
+218,218,Mark Ronson & Bruno Mars,312,219,2015,40,1,40.0
+219,219,Maroon 5,1575,1100,10076,130,5,26.0
+220,220,Maroon 5 & Cardi B,318,221,2018,23,1,23.0
+221,221,Maroon 5 & Future,319,222,2017,40,1,40.0
+222,222,Maroon 5 & Kendrick Lamar,641,446,4033,96,2,48.0
+223,223,Maroon 5 & SZA,322,224,2017,16,1,16.0
+224,224,Marshmello & Anne-Marie,323,225,2018,23,1,23.0
+225,225,Marshmello & Bastille,324,226,2018,23,1,23.0
+226,226,Marshmello & Khalid,325,227,2017,20,1,20.0
+227,227,Martin Garrix,326,228,2014,1,1,1.0
+228,228,Martin Garrix & Bebe Rexha,327,229,2016,22,1,22.0
+229,229,Martin Garrix & Dua Lipa,328,230,2017,25,1,25.0
+230,230,Matt Simons,329,231,2016,26,1,26.0
+231,231,Meghan Trainor,1995,1392,12091,179,6,29.833333333333332
+232,232,Meghan Trainor & John Legend,336,233,2015,34,1,34.0
+233,233,Michael Jackson & Justin Timberlake,337,234,2014,3,1,3.0
+234,234,Migos,677,470,4035,161,2,80.5
+235,235,Migos & Drake,340,236,2018,99,1,99.0
+236,236,Migos & Lil Uzi Vert,341,237,2017,129,1,129.0
+237,237,"Migos, Nicki Minaj & Cardi B",342,238,2018,139,1,139.0
+238,238,Mike Perry & Shy Martin,343,239,2016,11,1,11.0
+239,239,Mike Posner,344,240,2016,49,1,49.0
+240,240,Miley Cyrus,691,482,4031,48,2,24.0
+241,241,Milky Chance,347,242,2014,17,1,17.0
+242,242,Mr Probz,348,243,2014,11,1,11.0
+243,243,NF,349,244,2018,56,1,56.0
+244,244,Natalie La Rose & Jeremih,350,245,2015,17,1,17.0
+245,245,Naughty Boy & Sam Smith,351,246,2014,27,1,27.0
+246,246,Niall Horan,352,247,2017,11,1,11.0
+247,247,Nick Jonas,353,248,2015,28,1,28.0
+248,248,Nick Jonas & Tove Lo,354,249,2016,30,1,30.0
+249,249,Nicki Minaj,355,250,2014,68,1,68.0
+250,250,Nicky Jam & Enrique Iglesias,356,251,2015,26,1,26.0
+251,251,Nicky Jam & J Balvin,357,252,2018,13,1,13.0
+252,252,Nico & Vinz,358,253,2014,16,1,16.0
+253,253,OMI,359,254,2015,45,1,45.0
+254,254,Offset & Metro Boomin,360,255,2018,79,1,79.0
+255,255,Omarion & Chris Brown & Jhene Aiko,361,256,2015,52,1,52.0
+256,256,One Direction,725,514,4029,34,2,17.0
+257,257,OneRepublic,729,516,4028,55,2,27.5
+258,258,Panic! At the Disco,366,259,2018,35,1,35.0
+259,259,Paramore,367,260,2014,19,1,19.0
+260,260,Passenger,368,261,2014,19,1,19.0
+261,261,Pharrell Williams,369,262,2014,17,1,17.0
+262,262,Pink,741,526,4033,46,2,23.0
+263,263,Pitbull & John Ryan,372,264,2014,36,1,36.0
+264,264,Pitbull & Ke$ha,373,265,2014,29,1,29.0
+265,265,Pitbull & Ne-Yo,374,266,2015,49,1,49.0
+266,266,"Portugal, The Man",751,534,4035,70,2,35.0
+267,267,Post Malone,755,536,4036,62,2,31.0
+268,268,Post Malone & 21 Savage,759,538,4035,108,2,54.0
+269,269,Post Malone & Quavo,381,270,2017,55,1,55.0
+270,270,Post Malone & Ty Dolla Sign,382,271,2018,60,1,60.0
+271,271,R City & Adam Levine,383,272,2015,21,1,21.0
+272,272,Rachel Platten,384,273,2015,72,1,72.0
+273,273,Rae Sremmurd,385,274,2017,40,1,40.0
+274,274,Rae Sremmurd & Gucci Mane,773,550,4033,140,2,70.0
+275,275,Rag'n'Bone Man,1167,828,6050,82,3,27.333333333333332
+276,276,Rich Homie Quan,391,277,2015,44,1,44.0
+277,277,Rich The Kid,392,278,2018,37,1,37.0
+278,278,Rihanna,1182,837,6048,72,3,24.0
+279,279,Rihanna & Calvin Harris,396,280,2016,10,1,10.0
+280,280,Rihanna & Drake,795,562,4032,90,2,45.0
+281,281,Rihanna & Eminem,399,282,2014,89,1,89.0
+282,282,"Rihanna, Kanye West & Paul McCartney",400,283,2015,31,1,31.0
+283,283,Rixton,401,284,2014,16,1,16.0
+284,284,Robin Schulz & Francesco Yates,805,570,4031,68,2,34.0
+285,285,Robin Schulz & James Blunt,404,286,2017,14,1,14.0
+286,286,"Robin Thicke, T.I. & Pharrell Williams",405,287,2014,61,1,61.0
+287,287,Route 94 & Jess Glynne,406,288,2014,1,1,1.0
+288,288,"Rudimental, Jess Glynne, Macklemore & Dan Caplen",407,289,2018,40,1,40.0
+289,289,Ruth B,408,290,2016,33,1,33.0
+290,290,Sam Hunt,819,582,4032,63,2,31.5
+291,291,Sam Smith,2898,2044,14104,101,7,14.428571428571429
+292,292,Selena Gomez,1257,879,6050,65,3,21.666666666666668
+293,293,Selena Gomez & ASAP Rocky,421,294,2015,50,1,50.0
+294,294,Selena Gomez & Marshmello,422,295,2018,26,1,26.0
+295,295,Shakira & Maluma,423,296,2017,12,1,12.0
+296,296,Shakira & Rihanna,424,297,2014,23,1,23.0
+297,297,Shawn Mendes,2565,1788,12099,159,6,26.5
+298,298,Sheck Wes,431,299,2018,26,1,26.0
+299,299,Sia,1734,1200,8060,86,4,21.5
+300,300,Sia & Kendrick Lamar,436,301,2016,30,1,30.0
+301,301,Sido & Andreas Bourani,437,302,2015,12,1,12.0
+302,302,Sigma,438,303,2014,6,1,6.0
+303,303,Silento,439,304,2015,14,1,14.0
+304,304,Skrillex & Diplo,440,305,2015,18,1,18.0
+305,305,Starley,441,306,2017,22,1,22.0
+306,306,Stereoact & Kerstin Ott,442,307,2016,1,1,1.0
+307,307,T-Wayne,443,308,2015,62,1,62.0
+308,308,Taylor Swift,3129,2163,14109,245,7,35.0
+309,309,Taylor Swift & Kendrick Lamar,451,310,2015,36,1,36.0
+310,310,The Chainsmokers,452,311,2017,21,1,21.0
+311,311,The Chainsmokers & Coldplay,453,312,2017,26,1,26.0
+312,312,The Chainsmokers & Daya,454,313,2016,12,1,12.0
+313,313,The Chainsmokers & Halsey,911,628,4033,64,2,32.0
+314,314,The Chainsmokers & Rozes,457,315,2016,18,1,18.0
+315,315,The Weeknd,3227,2212,14111,141,7,20.142857142857142
+316,316,The Weeknd & Daft Punk,1398,951,6050,146,3,48.666666666666664
+317,317,The Weeknd & Kendrick Lamar,468,318,2018,47,1,47.0
+318,318,"Tiesto, Dzeko, Preme & Post Malone",469,319,2018,31,1,31.0
+319,319,Tom Walker,470,320,2018,25,1,25.0
+320,320,Tory Lanez,471,321,2016,14,1,14.0
+321,321,Tove Lo,472,322,2015,23,1,23.0
+322,322,Tove Lo & Hippie Sabotage,473,323,2014,35,1,35.0
+323,323,Travi$ Scott,474,324,2018,109,1,109.0
+324,324,Trey Songz,475,325,2014,29,1,29.0
+325,325,Twenty One Pilots,1910,1304,8065,115,4,28.75
+326,326,Tyga & Offset,480,327,2018,85,1,85.0
+327,327,Usher,481,328,2015,65,1,65.0
+328,328,Vance Joy,965,658,4029,66,2,33.0
+329,329,Walk the Moon,484,330,2015,27,1,27.0
+330,330,Wiz Khalifa & Charlie Puth,485,331,2015,27,1,27.0
+331,331,X Ambassadors,973,664,4031,26,2,13.0
+332,332,XXXTentacion,977,666,4036,30,2,15.0
+333,333,"YG Featuring 2 Chainz, Big Sean & Nicki Minaj",490,334,2018,104,1,104.0
+334,334,Years & Years,491,335,2015,19,1,19.0
+335,335,Yo Gotti & Nicki Minaj,492,336,2017,87,1,87.0
+336,336,Zara Larsson,493,337,2016,24,1,24.0
+337,337,Zara Larsson & MNEK,494,338,2016,15,1,15.0
+338,338,Zayn,495,339,2016,30,1,30.0
+339,339,Zayn & Sia,496,340,2017,16,1,16.0
+340,340,Zayn & Taylor Swift,497,341,2017,80,1,80.0
+341,341,Zedd & Alessia Cara,498,342,2017,25,1,25.0
+342,342,Zedd & Selena Gomez,499,343,2015,16,1,16.0
+343,343,"Zedd, Maren Morris & Grey",500,344,2018,27,1,27.0
